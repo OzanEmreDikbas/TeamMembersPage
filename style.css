@@ -1,13 +1,13 @@
 body {
     padding: 25px;
-    background-color: white;
-    color: black;
+    background-color: 246, 172, 172;
+    color: rgb(17, 1, 1);
     font-size: 25px;
 }
 
 .dark-mode {
-    background-color: black;
-    color: white;
+    background-color: rgb(17, 1, 1);
+    color: rgb(255, 220, 220);
 }
 
 .rotate {
@@ -21,5 +21,5 @@ body {
 }
 
 img {
-    box-shadow: 5px;
+    box-shadow: 5px 5px 15px rgb(49, 33, 33);
 }
